@@ -17,3 +17,4 @@ if percent <= 30 and plugged!=True:
         duration=5,  # Duration in seconds
         
     ).send()
+ 
